@@ -1,0 +1,43 @@
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccfZ6jut.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+0; => 0
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccI66FMp.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+42; => 42
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/cctJmHB9.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+5+20-4; => 21
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/cc945ziU.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+ 12 + 34 - 5 ; => 41
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccVWqxlC.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+5+6*7; => 47
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccXX1SOR.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+5*(9-6); => 15
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccLwgsH1.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+(3+5)/2; => 4
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccRyje5S.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+-10+20; => 10
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+Fatal error: exception Dune__exe__Parser.MenhirBasics.Error

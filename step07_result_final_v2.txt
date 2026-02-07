@@ -1,0 +1,171 @@
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccrnmKGJ.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+0; => 0
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/cco31V8J.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+42; => 42
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccOxCLJR.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+5+20-4; => 21
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccWXqIxz.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+ 12 + 34 - 5 ; => 41
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccpdS76w.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+5+6*7; => 47
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccETxCV2.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+5*(9-6); => 15
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccNwAsrX.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+(3+5)/2; => 4
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/cc6WXZsA.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+-10+20; => 10
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccB9OpEl.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+- -10; => 10
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccdJBNfl.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+- - +10; => 10
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccF4wttd.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+0==1; => 0
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccrpUaA5.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+42==42; => 1
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccfJpkWy.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+0!=1; => 1
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/cczRmflV.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+42!=42; => 0
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccxZzgPr.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+0<1; => 1
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccpl5c6k.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+1<1; => 0
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccFzByy5.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+2<1; => 0
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/cc1CsKBc.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+0<=1; => 1
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/cc5KHTAY.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+1<=1; => 1
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccJsPvqy.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+2<=1; => 0
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccYfu2sC.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+1>0; => 1
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/cctXxEfL.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+1>1; => 0
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/cc8mqDTU.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+1>2; => 0
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/cccZTLlP.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+1>=0; => 1
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/cchZ0RcA.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+1>=1; => 1
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/cc1HOZ0K.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+1>=2; => 0
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/cckvjv0Q.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+a=3; a; => 3
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccMUceaG.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+a=3; z=5; a+z; => 8
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccsWz3Ee.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+a=b=3; a+b; => 6
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccJL0H0r.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+foo=3; foo; => 3
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccDWu9qy.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+foo123=3; bar=5; foo123+bar; => 8
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccWt4als.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+return 1; 2; 3; => 1
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/cchfK3t5.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+1; return 2; 3; => 2
+Entering directory '/app/step07'
+Leaving directory '/app/step07'
+/usr/bin/ld: warning: /tmp/ccdTGrbb.o: missing .note.GNU-stack section implies executable stack
+/usr/bin/ld: NOTE: This behaviour is deprecated and will be removed in a future version of the linker
+1; 2; return 3; => 3
+OK

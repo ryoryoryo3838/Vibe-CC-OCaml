@@ -1,0 +1,2 @@
+File "src/parser.mly", line 5, characters 2-43:
+Error (warning 34 [unused-type-declaration]): unused type lvar.
