@@ -1,0 +1,8 @@
+type t =
+  | Int of int
+  | Add of t * t
+  | Sub of t * t
+  | Mul of t * t
+  | Div of t * t
+  | Pos of t
+  | Neg of t
