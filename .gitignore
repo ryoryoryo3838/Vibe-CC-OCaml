@@ -2,3 +2,7 @@ _build
 *.o
 *.s
 tmp
+*.out
+*result*.txt
+debug_input*
+tmp_helper.c
