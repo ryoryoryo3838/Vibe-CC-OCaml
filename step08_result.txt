@@ -1,4 +1,0 @@
-File "src/codegen.ml", line 2, characters 2-3:
-2 |   | If (cond, then_stmt, else_stmt_opt) ->
-      ^
-Error: Syntax error
